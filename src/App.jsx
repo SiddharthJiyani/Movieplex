@@ -5,10 +5,10 @@ import HomeSlice, { getApiConfig, getGenres } from "../store/homeSlice";
 import Home from "./pages/home/Home";
 import Footer from "./compenents/footer/Footer";
 import Header from "./compenents/header/Header";
-import PageNotFound from "./pages/404/pageNotFound";
-import Explore from "./pages/explore/explore";
-import Details from "./pages/details/details";
-import SearchResult from "./pages/searchResult/searchResult";
+import PageNotFound from "./pages/404/PageNotFound";
+import Explore from "./pages/explore/Explore";
+import Details from "./pages//details/Details";
+import SearchResult from "./pages/searchResult/SearchResult";
 import {
   BrowserRouter as Router,
   Route,
