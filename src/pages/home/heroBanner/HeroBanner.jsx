@@ -50,7 +50,7 @@ const HeroBanner = () => {
       <div className="opacity-layer"></div>
       <ContentWrapper>
           <div className="heroBannerContent">
-            <span className="title">Welcome to Movix.</span> <br />
+            <span className="title">Welcome to Movieplex.</span> <br />
             <span className="subtitle" style={{ fontFamily: "Dancing Script" , fontSize:"25px"  }}>Millions of movies, TV shows and people to discover. Explore now.</span>
             <div className="searchInput">
               <input

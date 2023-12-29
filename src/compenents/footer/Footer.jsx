@@ -22,7 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                Embark on a cinematic journey with Movix, your gateway to millions of movies, TV shows, and fascinating personalities. Explore the magic of storytelling and entertainment. Discover, indulge, and let the world of Movix captivate your imagination. Your adventure begins here.
+                Embark on a cinematic journey with Movieplex, your gateway to millions of movies, TV shows, and fascinating personalities. Explore the magic of storytelling and entertainment. Discover, indulge, and let the world of Movieplex captivate your imagination. Your adventure begins here.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
